@@ -1,47 +1,61 @@
 # 👋 Merhaba, ben Yunus Emre Karabayır  
 
-💻 **ASP.NET & C# Backend • React / React Native (Expo) Frontend • Veritabanı Geliştirici (MSSQL & PostgreSQL)**  
+💻 **.NET & C# Backend Developer** • **Veritabanı Geliştirici (MSSQL & PostgreSQL)** • **Python & Siber Güvenlik Öğrencisi**
 
 C#, ASP.NET MVC/Web API ve veritabanı teknolojileri ile kurumsal projeler geliştiriyorum.  
-Frontend tarafında **React** ile web arayüzleri, **React Native (Expo)** ile mobil uygulamalar geliştiriyorum.  
-MSSQL ve PostgreSQL üzerinde veritabanı tasarımı, performans optimizasyonu ve karmaşık sorgular yazma konusunda çalışıyorum.  
+MSSQL ve PostgreSQL üzerinde veritabanı tasarımı, performans optimizasyonu ve karmaşık sorgular yazma konusunda çalışıyorum.
+Siber Güvenlik alanında öğrenmeye devam etmekteyim.
 
 ---
 
-## 🚀 Projelerimden Öne Çıkanlar
-- 🏢 **Ticari Otomasyon (ASP.NET MVC + MSSQL)**  
-  Ürün, kategori, cari, personel, fatura ve admin yönetimi modülleri; katmanlı mimari ve EF Core.
-- 📦 **Stok Takip Masaüstü**  
-  MSSQL tabanlı; satış, raporlama, yetkilendirme, e-posta bildirimleri.
-- 🌐 **React Web Arayüzleri**  
-  ASP.NET Web API tüketen, kimlik doğrulamalı (JWT) yönetim panelleri.
-- 📱 **Mobil (React Native + Expo)**  
-  API tüketen liste/filtreleme, offline cache ve bildirim akışları.
-- 🧪 **SQL Çalışmaları**  
-  MSSQL & PostgreSQL üzerinde **JOIN, GROUP BY, HAVING, Stored Procedure, Trigger, View**.
+- ⚡ **Backend & Frameworkler:**  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+  - Identity Server  
+  - Api Gateway (Ocelot)  
+  - Onion Architecture  
+  - CQRS, Mediator & Repository Design Pattern  
+
+- 🗄️ **Veritabanları & Veri Yönetimi:**  
+  ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+  - SQLite, Dapper, EF Core  
+
+- 🚀 **DevOps & Araçlar:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+
+- 🔑 **Authentication & Authorization:**  
+  - Json Web Token (JWT)  
+  - JWT Bearer  
+
+- 🔗 **Entegrasyonlar:**  
+  - Rapid API  
+  - Google Drive Entegreli Fotoğraf Yükleme  
+
+- 💬 **Realtime & İletişim:**  
+  - SignalR  
+  - Ajax  
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=.net&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## 🛠️ Kullandığım Teknolojiler & Araçlar
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
+---
 
-
-
-
-
-
-
-![Visitors](https://komarev.com/ghpvc/?username=YunusEmreKarabayir&color=blue)
+📊 Visitor Counter  
+![Visitor Count](https://profile-counter.glitch.me/{YunusEmreKarabayir}/count.svg)  
