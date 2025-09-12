@@ -1,5 +1,5 @@
 # 👋 Merhaba, ben Yunus Emre Karabayır  
-
+📍 [LinkedIn Profili](https://www.linkedin.com/in/yunus-emre-karabay%C4%B1r-b10811296/)  
 💻 **.NET & C# Backend Developer** • **Veritabanı Geliştirici (MSSQL & PostgreSQL)** • **Python & Siber Güvenlik Öğrencisi**
 
 C#, ASP.NET MVC/Web API ve veritabanı teknolojileri ile kurumsal projeler geliştiriyorum.  
@@ -57,5 +57,3 @@ Siber Güvenlik alanında öğrenmeye devam etmekteyim.
 
 ---
 
-📊 Visitor Counter  
-![Visitor Count](https://profile-counter.glitch.me/{YunusEmreKarabayir}/count.svg)  
