@@ -43,11 +43,16 @@ A personal dashboard featuring XP-based motivation, study tracking, and data ana
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynsemre46&show_icons=true&theme=tokyonight" alt="Yunus Emre İstatistikleri" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynsemre46&layout=compact&theme=tokyonight" alt="Yunus Emre En Çok Kullanılan Diller" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ynsemr46&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynsemr46&theme=tokyonight" height="180" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynsemr46&theme=tokyonight" width="82%" />
+</p>
+
 
 ### 🤝 Let's Connect
 Whether it's a security audit, a SaaS idea, or just talking shop about .NET and Python:
